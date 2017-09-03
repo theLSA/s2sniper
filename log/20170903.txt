@@ -1,0 +1,39 @@
+
+Launched time: 2017-09-03 17:09:06
+Operation: -f urls.txt
+Result:
+st2-045: 2
+st2-046: 3
+st2-048: 0
+Used time: 9s
+--------------------------------------------------------------
+Launched time: 2017-09-03 17:09:25
+Operation: -u http://www.animation-store.info:8080/struts2-showcase/integration/saveGangster.action
+Result:
+st2-045: st2-045 vulnerable
+st2-046: st2-046 vulnerable
+st2-048: st2-048 vulnerable
+Used time: 9s
+--------------------------------------------------------------
+Launched time: 2017-09-03 17:10:20
+Operation: -f urls.txt -t 10
+Result:
+st2-045: 2
+st2-046: 3
+st2-048: 0
+Used time: 7s
+--------------------------------------------------------------
+Launched time: 2017-09-03 17:10:31
+Operation: -f urls.txt
+Result:
+st2-045: 2
+st2-046: 3
+st2-048: 0
+Used time: 11s
+--------------------------------------------------------------
+Launched time: 2017-09-03 17:11:27
+Operation: -u http://www.5u5u5u5u.com/studentLogin.action
+Result:
+st2-046: st2-046 vulnerable
+Used time: 5s
+--------------------------------------------------------------
