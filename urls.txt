@@ -1,0 +1,2 @@
+http://www.baidu.com/index.action
+http://www.sina.com/index.action
